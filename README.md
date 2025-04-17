@@ -1,6 +1,7 @@
- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=900&color=00FF00&center=true&vCenter=true&width=600&lines=C:/Program>+Initializing...;+C:/Program>+Loading+Projects...;C:/Program>+Access+Granted!;<+Hello%2C+World!+>">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=900&color=00FF00&center=true&vCenter=true&width=600&lines=C%3A%2FProgram%3E+Initializing...%3B+C%3A%2FProgram%3E+Loading+Projects...%3B+C%3A%2FProgram%3E+Access+Granted!%3B%3C+Hello%2C+World!+%3E" />
 </h1>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nav0711&label=Profile%20views&color=0e75b6&style=flat" alt="Nav0711" />
