@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=900&color=00FF00&center=true&vCenter=true&width=600&lines=C%3A%2FProgram%3E+Initializing...%3B+C%3A%2FProgram%3E+Loading+Projects...%3B+C%3A%2FProgram%3E+Access+Granted!%3B%3C+Hello%2C+World!+%3E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&pause=900&color=00FF00&center=true&vCenter=true&width=600&lines=C%3A%2FProgram%3E+Initializing...%3B+C%3A%2FProgram%3E+Loading+Projects...%3B+C%3A%2FProgram%3E+Access+Granted!%3B%3C+Hello%2C+World!+%3E"/>
 </h1>
 
 
@@ -19,9 +19,18 @@
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me: **navvysingh07@gmail.com**
 
+## 🧠 Interests & Learning
+
+- 💻 Web Development (MERN Stack)
+- 🧭 Route Optimization & GeoTech
+- 🔐 Cybersecurity Basics
+- 🧩 UI/UX & Frontend Animation
+- 📸 Photography & Design (Canva)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navdeep-singh-02ba6825a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=linkedin)](https://my-portfolio2-sepia.vercel.app/)
 
 ## 🛠️ Languages & Tools
 
@@ -41,8 +50,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nav0711&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nav0711&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nav0711&theme=tokyonight" alt="GitHub Streak" /></p>
 
 ---
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
