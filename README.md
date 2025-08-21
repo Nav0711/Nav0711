@@ -3,17 +3,12 @@
 </h1>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nav0711&label=Profile%20views&color=0e75b6&style=flat" alt="Nav0711" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nav0711&margin-w=15" alt="Nav0711" />
-  </a>
-</p>
 
-## 🚀 About Me
+
+<div align="center">
+<h2> 🚀 About Me </h2>
+</div>
 
 - 🔭 I’m currently working on **Small Projects**
 - 🌱 I’m currently learning **Web Development**
@@ -43,13 +38,21 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgSQL" width="40" height="40"/> </a>
 </p>
 
 ## 📊 GitHub Stats
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nav0711&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nav0711&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nav0711&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+  
+</div>
 
 ---
+
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
