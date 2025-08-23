@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Small Projects**
 - 🌱 I’m currently learning **Web Development**
-- 📫 How to reach me: **navvysingh07@gmail.com**
+- 📫 How to reach me: **navdeep112005@gmail.com**
 
 ## 🧠 Interests & Learning
 
